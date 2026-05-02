@@ -1,2 +1,2 @@
 # MLProject
-# View code by clicking MLProject.ipynb
+View code by clicking MLProject.ipynb
